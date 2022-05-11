@@ -22,12 +22,12 @@
 ### Integrations
 <table>
     <tr><th>Description</th><th>Keywords</th><th>Link</th></tr>
-    <tr><td>ASOC and Gitlab on docker image</td><th>Gitlab,Docker</td><td>https://github.com/jrocia/Integration-ASoC-and-Gitlab</td></tr>
-    <tr><td>ASOC and CircleCI</td><th>ASOC,CircleCI</td><td>https://github.com/antonychiu2/CircleCI</td></tr>
-    <tr><td>Appscan Source Jenkins plugin</td><th>Appscan Source,Jenkins,SAST</td><td>https://github.com/kevinfealey/appscanenterprise-publisher</td></tr>
-    <tr><td>ASOC->AIG->IBM Resilient</td><th>Appscan Issue Gateway,ASOC,Resilient</td><td>https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient</td></tr>
-    <tr><td>Appscan Source and Gitlab</td><th>Appscan Source,Gitlab,SAST</td><td>https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab</td></tr>
-    <tr><td>ASE and Gitlab</td><th>ASE,DAST,Gitlab</td><td>https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab</td></tr>
+    <tr><td>ASOC and Gitlab on docker image</td><td>Gitlab,Docker</td><td>https://github.com/jrocia/Integration-ASoC-and-Gitlab</td></tr>
+    <tr><td>ASOC and CircleCI</td><td>ASOC,CircleCI</td><td>https://github.com/antonychiu2/CircleCI</td></tr>
+    <tr><td>Appscan Source Jenkins plugin</td><td>Appscan Source,Jenkins,SAST</td><td>https://github.com/kevinfealey/appscanenterprise-publisher</td></tr>
+    <tr><td>ASOC->AIG->IBM Resilient</td><td>Appscan Issue Gateway,ASOC,Resilient</td><td>https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient</td></tr>
+    <tr><td>Appscan Source and Gitlab</td><td>Appscan Source,Gitlab,SAST</td><td>https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab</td></tr>
+    <tr><td>ASE and Gitlab</td><td>ASE,DAST,Gitlab</td><td>https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab</td></tr>
     <tr><td>Docker instance with Presence installed</td><td>Presence,DAST,Docker</td><td>https://github.com/jrocia/AppScanPresence-Dockerfile</td></tr>
     <tr><td>ASOC and Bitbucket</td><td>ASOC,SAST,Bitbucket</td><td>https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</td></tr>
     <tr><td>Simple Azure task that can be added to ADO pipeline</td><td>SAST,Azure DevOps,ASOC</td><td>https://github.com/yopez83/Azure-Task-AppScan</td></tr>
