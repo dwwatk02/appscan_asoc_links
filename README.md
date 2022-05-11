@@ -14,17 +14,35 @@
     <tr><td>python script to take an inputted list of URLs and scan for Log4j</td><td>ASOC,DAST,Log4j</td><td>https://github.com/cwtravis/asoc_dast_spray</td></tr>
     <tr><td>python wrapper script around various ASE functionality</td><td>SAST,DAST,ASE</td><td>https://github.com/sperlis/ase-apis</td></tr>
     <tr><td>python script allowing you to run concurrent appscan prepare commands</td><td>SAClientUtil,SAST,ASOC</td><td>https://github.com/m3ssap0/massive-appscan-prepare</td></tr>
+    <tr><td>python script to scrape Support pages for SAST language support</td><td>SAST,Appscan Source,ASOC</td><td>https://github.com/gledonne/appscanlangs</td></tr>
+    <tr><td>scala app that takes inputted .ozasmt file and import findings into mongodb</td><td>Appscan Source,.ozasmt</td><td>https://github.com/blackboard/appscan-source-parser</td></tr>
     
 </table>
-Integrations
-| Utility & Helper scripts  | Integrations | Vulnerable Code Examples |
-| ------------- | ------------- | ------------ |
-| Content Cell  | Content Cell  | - Bullet list - Nested bullet |
-| Content Cell  | Content Cell  | content |
 
+### Integrations
+<table>
+    <tr><th>Description</th><th>Keywords</th><th>Link</th></tr>
+    <tr><td>ASOC and Gitlab on docker image</td><th>Gitlab,Docker</td><td>https://github.com/jrocia/Integration-ASoC-and-Gitlab</td></tr>
+    <tr><td>ASOC and CircleCI</td><th>ASOC,CircleCI</td><td>https://github.com/antonychiu2/CircleCI</td></tr>
+    <tr><td>Appscan Source Jenkins plugin</td><th>Appscan Source,Jenkins,SAST</td><td>https://github.com/kevinfealey/appscanenterprise-publisher</td></tr>
+    <tr><td>ASOC->AIG->IBM Resilient</td><th>Appscan Issue Gateway,ASOC,Resilient</td><td>https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient</td></tr>
+    <tr><td>Appscan Source and Gitlab</td><th>Appscan Source,Gitlab,SAST</td><td>https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab</td></tr>
+    <tr><td>ASE and Gitlab</td><th>ASE,DAST,Gitlab</td><td>https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab</td></tr>
+    <tr><td>Docker instance with Presence installed</td><td>Presence,DAST,Docker</td><td>https://github.com/jrocia/AppScanPresence-Dockerfile</td></tr>
+    <tr><td>ASOC and Bitbucket</td><td>ASOC,SAST,Bitbucket</td><td>https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</td></tr>
+    <tr><td>Simple Azure task that can be added to ADO pipeline</td><td>SAST,Azure DevOps,ASOC</td><td>https://github.com/yopez83/Azure-Task-AppScan</td></tr>
+    <tr><td>Dradis framework add-on for importing Source assessment results</td><td>Dradis,Appscan Source,SAST</td><td>https://github.com/dradis/dradis-appscan</td></tr>
+    
+</table>
 
-Vulnerable code examples
-| Utility & Helper scripts  | Integrations | Vulnerable Code Examples |
-| ------------- | ------------- | ------------ |
-| Content Cell  | Content Cell  | - Bullet list - Nested bullet |
-| Content Cell  | Content Cell  | content |
+### Vulnerable code examples
+
+<table>
+    <tr><th>Description</th><th>Link</th></tr>
+    <tr><td>Java API application</td><td>https://github.com/coadaflorin/appscan_api_Demo</td></tr>
+    <tr><td>ABAP</td><td>https://github.com/sreejuonline/AppScan-abap-code</td></tr>
+    <tr><td>Webgoat .sln file scanned via Github Actions</td><td>https://github.com/antonychiu2/ASoC_Demo</td></tr>
+    <tr><td>Apex app scanned via Github Actions</td><td>https://github.com/cwtravis/asoc-apex-demo</td></tr>
+    <tr><td>Java Altoro app scanned via AppscanSrcCli, optionally gen report and publish to ASE</td><td>https://github.com/antonychiu2/AltoroJ</td></tr>
+    <tr><td>A number of vulnerable .cpp applications</td><td>https://github.com/atxsinn3r/VulnCases</td></tr>
+</table>
