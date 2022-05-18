@@ -2,7 +2,7 @@
 
 ### Gitlab Integrations
 <table>
-    <tr><th>Description/Technologies</th><th>Github Link</th></tr>
+    <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>ASOC</td><td><a href="https://github.com/jrocia/Integration-ASoC-and-Gitlab">Integration-ASoC-and-Gitlab</a></td></tr>
     <tr><td>ASE (DAST)</td><td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">Integration-ASE-DAST-and-Gitlab</a></td></tr>
     <tr><td>Appscan Source</td><td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">Integration-AppScanSRC-and-Gitlab</a></td></tr>
@@ -10,15 +10,45 @@
 
 ### Jenkins Integrations
 <table>
-    <tr><th>Description/Technologies</th><th>Github Link</th></tr>
+    <tr><th>Description/Technologies</th><th>Link</th></tr>
+    <tr><td>Official Jenkins plugin</td><td><a href="https://plugins.jenkins.io/appscan/">plugins.jenkins.io</a></td></tr>
+    <tr><td>Appscan Source->ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">appscanenterprise-publisher</a></td></tr>
+</table>
+
+### Azure DevOps Integrations
+<table>
+    <tr><th>Description/Technologies</th><th>Link</th></tr>
+    <tr><td>Simple Azure task that can be added to ADO pipeline</td><td><a href="https://github.com/yopez83/Azure-Task-AppScan">Azure-Task-Appscan</a></td></tr>
+</table>
+
+### CircleCI Integrations
+<table>
+    <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>ASOC and CircleCI</td><td><a href="https://github.com/antonychiu2/CircleCI">CircleCI</a></td></tr>
-    <tr><td>Appscan Source Jenkins plugin</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">appscanenterprise-publisher</td></tr>
-    <tr><td>ASOC->AIG->IBM Resilient</td><td>https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient</td></tr>
-    <tr><td>Docker instance with Presence installed</td><td>https://github.com/jrocia/AppScanPresence-Dockerfile</td></tr>
-    <tr><td>ASOC and Bitbucket</td><td>https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</td></tr>
-    <tr><td>Simple Azure task that can be added to ADO pipeline</td><td>https://github.com/yopez83/Azure-Task-AppScan</td></tr>
-    <tr><td>Dradis framework add-on for importing Source assessment results</td><td>https://github.com/dradis/dradis-appscan</td></tr>
-    
+</table>
+
+### Bitbucket Integrations
+<table>
+    <tr><th>Description/Technologies</th><th>Link</th></tr>
+    <tr><td>ASOC and Bitbucket</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">bitbucket-asoc-sast</a></td></tr>
+</table>
+
+### Docker Integrations
+<table>
+    <tr><th>Description/Technologies</th><th>Link</th></tr>
+    <tr><td>Appscan Presence </td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">AppscanPresence-Dockerfile</a></td></tr>
+</table>
+
+### Dradis Integration
+<table>
+    <tr><th>Description/Technologies</th><th>Link</th></tr>
+    <tr><td>Dradis framework add-on for importing Source assessment results</td><td><a href="https://github.com/dradis/dradis-appscan">dradis-appscan</a></td></tr>
+</table>
+
+### IBM Resilient Integrations
+<table>
+    <tr><th>Description/Technologies</th><th>Link</th></tr>
+    <tr><td>ASOC->AIG->IBM Resilient</td><td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient">appscan-issue-gateway-resilient</a></td></tr>
 </table>
 
 ### Utility, helper, wrapper scripts
