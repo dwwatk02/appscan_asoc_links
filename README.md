@@ -1,6 +1,6 @@
 ## Appscan Integration Repository
 
-### Gitlab Integrations
+<img src="http://watkinsdemo.us/images/gitlab.png"/>
 <table>
     <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>ASOC</td><td><a href="https://github.com/jrocia/Integration-ASoC-and-Gitlab">Integration-ASoC-and-Gitlab</a></td></tr>
@@ -8,20 +8,20 @@
     <tr><td>Appscan Source</td><td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">Integration-AppScanSRC-and-Gitlab</a></td></tr>
     <tr><td>Appscan Standard</td><td><a href="https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab">Integration-AppScanSTD-and-Gitlab</a></td></tr></table>
 
-### Jenkins Integrations
+<img src="http://watkinsdemo.us/images/jenkins.png"/>
 <table>
     <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>Official Jenkins plugin</td><td><a href="https://plugins.jenkins.io/appscan/">plugins.jenkins.io</a></td></tr>
     <tr><td>Appscan Source->ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">appscanenterprise-publisher</a></td></tr>
 </table>
 
-### Azure DevOps Integrations
+<img src="http://watkinsdemo.us/images/ado.png"/>
 <table>
     <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>Simple Azure task that can be added to ADO pipeline</td><td><a href="https://github.com/yopez83/Azure-Task-AppScan">Azure-Task-Appscan</a></td></tr>
 </table>
 
-### CircleCI Integrations
+<img src="http://watkinsdemo.us/images/circleci.png"/>
 <table>
     <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>ASOC and CircleCI</td><td><a href="https://github.com/antonychiu2/CircleCI">CircleCI</a></td></tr>
