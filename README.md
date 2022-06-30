@@ -27,25 +27,25 @@
     <tr><td>ASOC and CircleCI</td><td><a href="https://github.com/antonychiu2/CircleCI">CircleCI</a></td></tr>
 </table>
 
-### Bitbucket Integrations
+<img src="http://watkinsdemo.us/images/bitbucket.png"/>
 <table>
     <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>ASOC and Bitbucket</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">bitbucket-asoc-sast</a></td></tr>
 </table>
 
-### Docker Integrations
+<img src="http://watkinsdemo.us/images/docker.png"/>
 <table>
     <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>Appscan Presence </td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">AppscanPresence-Dockerfile</a></td></tr>
 </table>
 
-### Dradis Integration
+<img src="http://watkinsdemo.us/images/dradis.png"/>
 <table>
     <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>Dradis framework add-on for importing Source assessment results</td><td><a href="https://github.com/dradis/dradis-appscan">dradis-appscan</a></td></tr>
 </table>
 
-### IBM Resilient Integrations
+<img src="http://watkinsdemo.us/images/resilient.png"/>
 <table>
     <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>ASOC->AIG->IBM Resilient</td><td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient">appscan-issue-gateway-resilient</a></td></tr>
