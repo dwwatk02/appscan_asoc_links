@@ -65,7 +65,7 @@
 </table>
 <table>
     <tr><th>Description</th><th>Language</th><th>Link</th></tr>
-    <tr><td>Script to export issues from ASoC and import into ASE</td><td>bash,ASOC,ASE,APIs</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
+    <tr><td>Script to export issues from ASoC and import into ASE</td><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/bash.png"</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
     <tr><td>Wrapper around SAClientUtil</td><td>windows .bat,ASoC,SAClientUtil</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
     <tr><td>Script that takes inputted list of URLs and kicks off Appscan Standard scans, specifically for Log4j vuln</td><td>Powershell,Appscan Standard,DAST,Log4j</td><td>https://github.com/jrocia/Search-log4Jvuln-AppScanSTD</td></tr>
     <tr><td>App that takes inputted .ozasmt file and import findings into mongodb</td><td>scala,Appscan Source,.ozasmt</td><td>https://github.com/blackboard/appscan-source-parser</td></tr>
