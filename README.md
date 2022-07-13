@@ -53,15 +53,18 @@
 
 ### Utility, helper, wrapper scripts
 <table>
-    <tr><th>Description</th><th>Keywords</th><th>Link</th></tr>
-    <tr><td>Wrapper script around SAClientUtil</td><td>python,SAST,ASoC,SAClientUtil</td><td>https://github.com/cwtravis/python-saclient-wrapper</td></tr>
-    <tr><td>Wrapper script around Appscan Issue Gateway</td><td>python,AIG,JIRA,Azure DevOps</td><td>https://github.com/cwtravis/AIMG_Client</td></tr>
-    <tr><td>Script to parse Appscan Standard xml report files and create spreadsheet with issues combined and sorted by severity</td><td>python,Appscan Standard,reporting</td><td>https://github.com/Bruk0ut/appscan-xml-report-parser</td></tr>
+    <tr><th>Description</th><th>Language</th><th>Link</th></tr>
+    <tr><td>Wrapper script - SAClientUtil</td><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/python.png"></td><td>https://github.com/cwtravis/python-saclient-wrapper</td></tr>
+    <tr><td>Wrapper script around Appscan Issue Gateway</td><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/python.png"></td><td>https://github.com/cwtravis/AIMG_Client</td></tr>
+    <tr><td>Script to parse Appscan Standard xml report files and create spreadsheet with issues combined and sorted by severity</td><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/python.png"></td><td>https://github.com/Bruk0ut/appscan-xml-report-parser</td></tr>
         <tr><td>Helper script around various ASOC functionality</td><td>python,SAST,DAST,ASoC</td><td>https://github.com/ntinvo/appscan-automator</td></tr>
 <tr><td>Script to take an inputted list of URLs and scan for Log4j</td><td>python,ASOC,DAST,Log4j</td><td>https://github.com/cwtravis/asoc_dast_spray</td></tr>
     <tr><td>Wrapper script around various ASE functionality</td><td>python,SAST,DAST,ASE</td><td>https://github.com/sperlis/ase-apis</td></tr>
     <tr><td>Script allowing you to run concurrent appscan prepare commands</td><td>python,SAClientUtil,SAST,ASOC</td><td>https://github.com/m3ssap0/massive-appscan-prepare</td></tr>
     <tr><td>Script to scrape Support pages for SAST language support</td><td>python,SAST,Appscan Source,ASOC</td><td>https://github.com/gledonne/appscanlangs</td></tr>
+</table>
+<table>
+    <tr><th>Description</th><th>Language</th><th>Link</th></tr>
     <tr><td>Script to export issues from ASoC and import into ASE</td><td>bash,ASOC,ASE,APIs</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
     <tr><td>Wrapper around SAClientUtil</td><td>windows .bat,ASoC,SAClientUtil</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
     <tr><td>Script that takes inputted list of URLs and kicks off Appscan Standard scans, specifically for Log4j vuln</td><td>Powershell,Appscan Standard,DAST,Log4j</td><td>https://github.com/jrocia/Search-log4Jvuln-AppScanSTD</td></tr>
