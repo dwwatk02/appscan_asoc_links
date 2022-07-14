@@ -7,12 +7,11 @@
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>ASE DAST</td><td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">Integration-ASE-DAST-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Source</td><td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">Integration-AppScanSRC-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Standard</td><td><a href="https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab">Integration-AppScanSTD-and-Gitlab</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Official Jenkins plugin</td><td><a href="https://plugins.jenkins.io/appscan/">plugins.jenkins.io</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Appscan Source->ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">appscanenterprise-publisher</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Appscan Source SAST, results published to ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">appscanenterprise-publisher</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Simple Azure task that can be added to ADO pipeline</td>
         <td><a href="https://github.com/yopez83/Azure-Task-AppScan">Azure-Task-Appscan</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/circleci1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/antonychiu2/CircleCI">CircleCI</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC and Bitbucket</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">bitbucket-asoc-sast</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">bitbucket-asoc-sast</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/docker1.png"></td><td>Containerized Appscan Presence</td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">AppscanPresence-Dockerfile</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/resilient1.png"></td><td>ASOC->AIG->IBM Resilient</td><td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient">appscan-issue-gateway-resilient</a></td></tr>
 </table>
@@ -22,7 +21,7 @@ https://cloud.appscan.com/main/plugins
 
 ### Utility, helper, wrapper scripts
 <table>
-    <tr><th>Description</th><th>Language</th><th>Link</th></tr>
+    <tr><th>Language/Platform</th><th>Description</th><th>Link</th></tr>
     <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>Wrapper script - SAClientUtil</td><td>https://github.com/cwtravis/python-saclient-wrapper</td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>Wrapper script around Appscan Issue Gateway</td><td>https://github.com/cwtravis/AIMG_Client</td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>Script to parse Appscan Standard xml report files and create spreadsheet with issues combined and sorted by severity</td><td>https://github.com/Bruk0ut/appscan-xml-report-parser</td></tr>
