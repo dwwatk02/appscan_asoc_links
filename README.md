@@ -6,7 +6,10 @@
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>ASOC</td><td><a href="https://github.com/jrocia/Integration-ASoC-and-Gitlab">Integration-ASoC-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>ASE (DAST)</td><td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">Integration-ASE-DAST-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Source</td><td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">Integration-AppScanSRC-and-Gitlab</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Standard</td><td><a href="https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab">Integration-AppScanSTD-and-Gitlab</a></td></tr></table>
+    <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Standard</td><td><a href="https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab">Integration-AppScanSTD-and-Gitlab</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Official Jenkins plugin</td><td><a href="https://plugins.jenkins.io/appscan/">plugins.jenkins.io</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Appscan Source->ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">appscanenterprise-publisher</a></td></tr>
+</table>
 <hr>
 <img src="http://watkinsdemo.us/images/jenkins.png"/>
 <table>
