@@ -9,19 +9,8 @@
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Standard</td><td><a href="https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab">Integration-AppScanSTD-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Official Jenkins plugin</td><td><a href="https://plugins.jenkins.io/appscan/">plugins.jenkins.io</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Appscan Source->ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">appscanenterprise-publisher</a></td></tr>
-</table>
-<hr>
-<img src="http://watkinsdemo.us/images/jenkins.png"/>
-<table>
-    <tr><th>Description/Technologies</th><th>Link</th></tr>
-    <tr><td>Official Jenkins plugin</td><td><a href="https://plugins.jenkins.io/appscan/">plugins.jenkins.io</a></td></tr>
-    <tr><td>Appscan Source->ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">appscanenterprise-publisher</a></td></tr>
-</table>
-<hr>
-<img src="http://watkinsdemo.us/images/ado.png"/>
-<table>
-    <tr><th>Description/Technologies</th><th>Link</th></tr>
-    <tr><td>Simple Azure task that can be added to ADO pipeline</td><td><a href="https://github.com/yopez83/Azure-Task-AppScan">Azure-Task-Appscan</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Simple Azure task that can be added to ADO pipeline</td>
+        <td><a href="https://github.com/yopez83/Azure-Task-AppScan">Azure-Task-Appscan</a></td></tr>
 </table>
 <hr>
 <img src="http://watkinsdemo.us/images/circleci.png"/>
