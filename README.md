@@ -1,47 +1,25 @@
 ## Appscan Integration Repository
 
-<img src="http://watkinsdemo.us/images/gitlab1.png"/>
+
 <table>
     <tr><th>Integration</th><th>Description/Technologies</th><th>Link</th></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>ASOC</td><td><a href="https://github.com/jrocia/Integration-ASoC-and-Gitlab">Integration-ASoC-and-Gitlab</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>ASE (DAST)</td><td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">Integration-ASE-DAST-and-Gitlab</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>ASOC SAST and DAST</td><td><a href="https://github.com/jrocia/Integration-ASoC-and-Gitlab">Github Link</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>ASE DAST</td><td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">Integration-ASE-DAST-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Source</td><td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">Integration-AppScanSRC-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Standard</td><td><a href="https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab">Integration-AppScanSTD-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Official Jenkins plugin</td><td><a href="https://plugins.jenkins.io/appscan/">plugins.jenkins.io</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Appscan Source->ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">appscanenterprise-publisher</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Simple Azure task that can be added to ADO pipeline</td>
         <td><a href="https://github.com/yopez83/Azure-Task-AppScan">Azure-Task-Appscan</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/circleci1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/antonychiu2/CircleCI">CircleCI</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC and Bitbucket</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">bitbucket-asoc-sast</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/docker1.png"></td><td>Appscan Presence </td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">AppscanPresence-Dockerfile</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/dradis1.png"></td><td>Dradis framework add-on for importing Source assessment results</td><td><a href="https://github.com/dradis/dradis-appscan">dradis-appscan</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/resilient1.png"></td><td>ASOC->AIG->IBM Resilient</td><td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient">appscan-issue-gateway-resilient</a></td></tr>
 </table>
 <hr>
-<img src="http://watkinsdemo.us/images/circleci.png"/>
-<table>
-    <tr><th>Description/Technologies</th><th>Link</th></tr>
-    <tr><td>ASOC and CircleCI</td><td><a href="https://github.com/antonychiu2/CircleCI">CircleCI</a></td></tr>
-</table>
-<hr>
-<img src="http://watkinsdemo.us/images/bitbucket1.png"/>
-<table>
-    <tr><th>Description/Technologies</th><th>Link</th></tr>
-    <tr><td>ASOC and Bitbucket</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">bitbucket-asoc-sast</a></td></tr>
-</table>
-<hr>
-<img src="http://watkinsdemo.us/images/docker1.png"/>
-<table>
-    <tr><th>Description/Technologies</th><th>Link</th></tr>
-    <tr><td>Appscan Presence </td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">AppscanPresence-Dockerfile</a></td></tr>
-</table>
-<hr>
-<img src="http://watkinsdemo.us/images/dradis.png"/>
-<table>
-    <tr><th>Description/Technologies</th><th>Link</th></tr>
-    <tr><td>Dradis framework add-on for importing Source assessment results</td><td><a href="https://github.com/dradis/dradis-appscan">dradis-appscan</a></td></tr>
-</table>
-<hr>
-<img src="http://watkinsdemo.us/images/resilient.png"/>
-<table>
-    <tr><th>Description/Technologies</th><th>Link</th></tr>
-    <tr><td>ASOC->AIG->IBM Resilient</td><td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient">appscan-issue-gateway-resilient</a></td></tr>
-</table>
+
+
 <hr>
 ### Utility, helper, wrapper scripts
 <table>
