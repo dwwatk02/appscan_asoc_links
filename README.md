@@ -27,7 +27,7 @@
     <tr><td>ASOC and CircleCI</td><td><a href="https://github.com/antonychiu2/CircleCI">CircleCI</a></td></tr>
 </table>
 <hr>
-
+<img src="http://watkinsdemo.us/images/bitbucket.png"/>
 <table>
     <tr><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td>ASOC and Bitbucket</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">bitbucket-asoc-sast</a></td></tr>
