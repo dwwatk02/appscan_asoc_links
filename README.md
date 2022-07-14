@@ -13,7 +13,7 @@
         <td><a href="https://github.com/yopez83/Azure-Task-AppScan">Azure-Task-Appscan</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/circleci1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/antonychiu2/CircleCI">CircleCI</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC and Bitbucket</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">bitbucket-asoc-sast</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/docker1.png"></td><td>Appscan Presence </td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">AppscanPresence-Dockerfile</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/docker1.png"></td><td>Containerized Appscan Presence</td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">AppscanPresence-Dockerfile</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/resilient1.png"></td><td>ASOC->AIG->IBM Resilient</td><td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient">appscan-issue-gateway-resilient</a></td></tr>
 </table>
 <hr>
@@ -32,9 +32,9 @@ https://cloud.appscan.com/main/plugins
     <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>Script allowing you to run concurrent appscan prepare commands</td><td>https://github.com/m3ssap0/massive-appscan-prepare</td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>Script to scrape Support pages for SAST language support</td><td>https://github.com/gledonne/appscanlangs</td></tr>
     <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/bash.png"</td><td>Script to export issues from ASoC and import into ASE</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
-    <tr><td>Wrapper around SAClientUtil</td><td>windows .bat,ASoC,SAClientUtil</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
-    <tr><td>Script that takes inputted list of URLs and kicks off Appscan Standard scans, specifically for Log4j vuln</td><td>Powershell,Appscan Standard,DAST,Log4j</td><td>https://github.com/jrocia/Search-log4Jvuln-AppScanSTD</td></tr>
-    <tr><td>App that takes inputted .ozasmt file and import findings into mongodb</td><td>scala,Appscan Source,.ozasmt</td><td>https://github.com/blackboard/appscan-source-parser</td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/bat.png"></td><td>Wrapper around SAClientUtil</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/powershell.png"></td><td>Script that takes inputted list of URLs and kicks off Appscan Standard scans, specifically for Log4j vuln</td><td>https://github.com/jrocia/Search-log4Jvuln-AppScanSTD</td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/scala.png"></td><td>App that takes inputted .ozasmt file and import findings into mongodb</td><td>https://github.com/blackboard/appscan-source-parser</td></tr>
 </table>
 
 
