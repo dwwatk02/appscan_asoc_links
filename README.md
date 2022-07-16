@@ -1,7 +1,7 @@
 ## Appscan Integration and Script Repository
 <hr>
 
-### Community-developed Integrations
+### ** Community-developed Integrations **
 <hr>
 <table>
     <tr><th>Integration</th><th>Description/Technologies</th><th>Link</th></tr>
@@ -25,7 +25,7 @@
 </table>
 <hr>
 
-### HCL Official Integrations
+### ** HCL Official Integrations **
 
 <hr>
 <table>
@@ -40,7 +40,7 @@
  
 <hr>
 
-### Utility, helper, wrapper scripts
+### ** Utility, helper, wrapper scripts **
 
 <hr>
 <table>
@@ -64,7 +64,7 @@
 
 <hr>
 
-### Vulnerable code examples
+### ** Vulnerable code examples **
 <hr>
 <table>
     <tr><th>Description</th><th>Link</th></tr>
