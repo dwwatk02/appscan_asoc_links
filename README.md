@@ -1,13 +1,18 @@
-## Appscan Integration Repository
+## Community-developed Appscan Integration and Script Repository
+<hr>
 
-
+### Integrations
+<hr>
 <table>
     <tr><th>Integration</th><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>ASOC SAST and DAST</td><td><a href="https://github.com/jrocia/Integration-ASoC-and-Gitlab">https://github.com/jrocia/Integration-ASoC-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>ASE DAST</td><td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Source</td><td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Appscan Standard</td><td><a href="https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab">https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Standard/Source/ASE/ASOC using powershell and yml files</td><td><a href="https://github.com/jrocia/Integration-AppScan-onprem-and-Gitlab">https://github.com/jrocia/Integration-AppScan-onprem-and-Gitlab</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/gitlab1.png"></td><td>Sample Standard/Source/ASE/ASOC functionality using powershell and yml files</td><td><a href="https://github.com/jrocia/Integration-AppScan-onprem-and-Gitlab">https://github.com/jrocia/Integration-AppScan-onprem-and-Gitlab</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/githubactions.png"></td><td>Scanning demo Apex code</td><td><a href="https://github.com/cwtravis/asoc-apex-demo">https://github.com/cwtravis/asoc-apex-demo</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/githubactions.png"></td><td>ASOC SAST and Codesweep</td><td><a href="https://github.com/glhcl/ASoCActionDemo">https://github.com/glhcl/ASoCActionDemo</a></td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/githubactions.png"></td><td>ASOC SAST scanning Webgoat</td><td><a href="https://github.com/antonychiu2/ASoC_Demo">https://github.com/antonychiu2/ASoC_Demo</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Create Source assessment, publish to ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">https://github.com/kevinfealey/appscanenterprise-publisher</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Simple Azure task that can be added to ADO pipeline</td>
         <td><a href="https://github.com/yopez83/Azure-Task-AppScan">https://github.com/yopez83/Azure-Task-AppScan</a></td></tr>
@@ -16,13 +21,12 @@
     <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/docker1.png"></td><td>Containerized Appscan Presence</td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">https://github.com/jrocia/AppScanPresence-Dockerfile</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/resilient1.png"></td><td>ASOC->AIG->IBM Resilient</td><td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient">https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/githubactions.png"></td><td>Scanning demo Apex code</td><td><a href="https://github.com/cwtravis/asoc-apex-demo">https://github.com/cwtravis/asoc-apex-demo</a></td></tr>
+    
 </table>
 <hr>
-### Official Plugin page
-https://cloud.appscan.com/main/plugins
 
 ### Utility, helper, wrapper scripts
+<hr>
 <table>
     <tr><th>Language/Platform</th><th>Appscan Component(s)</th><th>Description</th><th>Link</th></tr>
     <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC SAST/Reporting</td><td>Wrapper script - SAClientUtil</td><td>https://github.com/cwtravis/python-saclient-wrapper</td></tr>
@@ -40,10 +44,10 @@ https://cloud.appscan.com/main/plugins
     <tr><td><img src="http://watkinsdemo.us/images/scala1.png"></td><td>Source for Analysis</td><td>App that takes inputted .ozasmt file and import findings into mongodb</td><td>https://github.com/blackboard/appscan-source-parser</td></tr>
 </table>
 
-
+<hr>
 
 ### Vulnerable code examples
-
+<hr>
 <table>
     <tr><th>Description</th><th>Link</th></tr>
     <tr><td>Java API application</td><td>https://github.com/coadaflorin/appscan_api_Demo</td></tr>
