@@ -32,6 +32,7 @@
     <tr><th>Integration</th><th>Description/Technologies</th><th>Link</th></tr>
     <tr><td><img src="http://watkinsdemo.us/images/bamboo.png"></td><td>ASOC SAST/DAST/Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin">https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin</a></td></tr>
         <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</a></td></tr>
+    https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin
 </table>
  
 <hr>
