@@ -30,9 +30,12 @@
 <hr>
 <table>
     <tr><th>Integration</th><th>Description/Technologies</th><th>Link</th></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Azure DevOps Marketplace</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=HCLTechnologies.ApplicationSecurity-VSTS">https://marketplace.visualstudio.com/items?itemName=HCLTechnologies.ApplicationSecurity-VSTS</a></td></tr>
+        <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Plugin project in JenkinsCI Repo</td><td><a href="https://github.com/jenkinsci/appscan-plugin">https://github.com/jenkinsci/appscan-plugin</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/bamboo.png"></td><td>ASOC SAST/DAST/Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin">https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin</a></td></tr>
-        <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</a></td></tr>
-    https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin
+        <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</a></td></tr> 
+    <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/gocd.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin">https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin</a></td></tr>
 </table>
  
 <hr>
