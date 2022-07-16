@@ -1,7 +1,7 @@
-## Community-developed Appscan Integration and Script Repository
+## Appscan Integration and Script Repository
 <hr>
 
-### Integrations
+### Community-developed Integrations
 <hr>
 <table>
     <tr><th>Integration</th><th>Description/Technologies</th><th>Link</th></tr>
@@ -17,17 +17,27 @@
     <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Simple Azure task that can be added to ADO pipeline</td>
         <td><a href="https://github.com/yopez83/Azure-Task-AppScan">https://github.com/yopez83/Azure-Task-AppScan</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Check out java project from SCM, scan, report using ASOC in ADO pipeline</td>
-        <td><a href="https://github.com/antonychiu2/AltoroJ">https://github.com/antonychiu2/AltoroJ</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/bamboo.png"></td><td>ASOC SAST/DAST/Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin">https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin</a></td></tr>
+        <td><a href="https://github.com/antonychiu2/AltoroJ">https://github.com/antonychiu2/AltoroJ</a></td></tr>    
     <tr><td><img src="http://watkinsdemo.us/images/circleci1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/antonychiu2/CircleCI">https://github.com/antonychiu2/CircleCI</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/docker1.png"></td><td>Containerized Appscan Presence</td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">https://github.com/jrocia/AppScanPresence-Dockerfile</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/resilient1.png"></td><td>ASOC->AIG->IBM Resilient</td><td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient">https://github.com/IBM/asoc-devops-tooling/tree/master/appscan-issue-gateway-resilient</a></td></tr>
     
 </table>
 <hr>
 
+### HCL Official Integrations
+
+<hr>
+<table>
+    <tr><th>Integration</th><th>Description/Technologies</th><th>Link</th></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/bamboo.png"></td><td>ASOC SAST/DAST/Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin">https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin</a></td></tr>
+        <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</a></td></tr>
+</table>
+ 
+<hr>
+
 ### Utility, helper, wrapper scripts
+
 <hr>
 <table>
     <tr><th>Language/Platform</th><th>Appscan Component(s)</th><th>Description</th><th>Link</th></tr>
@@ -40,7 +50,7 @@
     <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC SAST</td><td>Script allowing you to run concurrent appscan prepare commands</td><td>https://github.com/m3ssap0/massive-appscan-prepare</td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>Source and ASOC SAST</td><td>Script to scrape Support pages for SAST language support</td><td>https://github.com/gledonne/appscanlangs</td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC SAST + Webhooks</td><td>Script to scrape Support pages for SAST language support</td><td>https://github.com/cwtravis/asoc-wehbook-proxy</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC DAST Automation</td><td>Script to scrape Support pages for SAST language support</td><td>https://github.com/dwwatk02/automation</td></tr>
+    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC DAST</td><td>Starter framework for DAST automation</td><td>https://github.com/dwwatk02/automation</td></tr>
     <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/bash.png"</td><td>ASOC -> ASE</td><td>Script to export issues from ASoC and import into ASE</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
     <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/bash.png">&nbsp;<img src="http://watkinsdemo.us/images/docker1.png"></td><td>ASOC -> ASE</td><td>Container and scripts to input a swagger json definition and create ASOC DAST scan</td><td>https://github.com/jrocia/DAST-Automation-Swagger-API</td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/bat.png"></td><td>ASOC SAST</td><td>Wrapper around SAClientUtil</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
