@@ -13,6 +13,7 @@
     <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/githubactions.png"></td><td>Scanning demo Apex code</td><td><a href="https://github.com/cwtravis/asoc-apex-demo">https://github.com/cwtravis/asoc-apex-demo</a></td></tr>
     <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/githubactions.png"></td><td>ASOC SAST and Codesweep</td><td><a href="https://github.com/glhcl/ASoCActionDemo">https://github.com/glhcl/ASoCActionDemo</a></td></tr>
     <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/githubactions.png"></td><td>ASOC SAST scanning Webgoat</td><td><a href="https://github.com/antonychiu2/ASoC_Demo">https://github.com/antonychiu2/ASoC_Demo</a></td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/githubactions.png"></td><td>ASOC SAST scanning vulnerable .sln file</td><td><a href="https://github.com/antonychiu2/vulnerableCoreAppSln">https://github.com/antonychiu2/vulnerableCoreAppSln</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Create Source assessment, publish to ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">https://github.com/kevinfealey/appscanenterprise-publisher</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Simple Azure task that can be added to ADO pipeline</td>
         <td><a href="https://github.com/yopez83/Azure-Task-AppScan">https://github.com/yopez83/Azure-Task-AppScan</a></td></tr>
@@ -25,7 +26,7 @@
 </table>
 <hr>
 
-### ** HCL Official Integrations **
+### ** HCL Official Integrations and Plugins **
 
 <hr>
 <table>
