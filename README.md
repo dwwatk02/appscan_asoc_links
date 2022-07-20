@@ -15,9 +15,9 @@
     <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/githubactions.png"></td><td>ASOC SAST scanning Webgoat</td><td><a href="https://github.com/antonychiu2/ASoC_Demo">https://github.com/antonychiu2/ASoC_Demo</a></td></tr>
     <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/githubactions.png"></td><td>ASOC SAST scanning vulnerable .sln file</td><td><a href="https://github.com/antonychiu2/vulnerableCoreAppSln">https://github.com/antonychiu2/vulnerableCoreAppSln</a></td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>Create Source assessment, publish to ASE</td><td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">https://github.com/kevinfealey/appscanenterprise-publisher</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Simple Azure task that can be added to ADO pipeline</td>
+    <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Azure DevOps pipeline - kick off SAST scan of a simple node project</td>
         <td><a href="https://github.com/yopez83/Azure-Task-AppScan">https://github.com/yopez83/Azure-Task-AppScan</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Check out java project from SCM, scan, report using ASOC in ADO pipeline</td>
+    <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>Azure DevOps pipeline - pull from SCM, scan, and generate report</td>
         <td><a href="https://github.com/antonychiu2/AltoroJ">https://github.com/antonychiu2/AltoroJ</a></td></tr>    
     <tr><td><img src="http://watkinsdemo.us/images/circleci1.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/antonychiu2/CircleCI">https://github.com/antonychiu2/CircleCI</a></td></tr>
     <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/docker.png"></td><td>Containerized Appscan Presence</td><td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">https://github.com/jrocia/AppScanPresence-Dockerfile</a></td></tr>
