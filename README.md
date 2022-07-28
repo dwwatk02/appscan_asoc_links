@@ -61,6 +61,7 @@
     <tr><td><img src="http://watkinsdemo.us/images/bat.png"></td><td>ASOC SAST | Wrapper around SAClientUtil</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/powershell.png"></td><td>Standard | Script that takes inputted list of URLs and kicks off Appscan Standard scans, specifically for Log4j vuln</td><td>https://github.com/jrocia/Search-log4Jvuln-AppScanSTD</td></tr>
     <tr><td><img src="http://watkinsdemo.us/images/scala1.png"></td><td>Source for Analysis | App that takes inputted .ozasmt file and import findings into mongodb</td><td>https://github.com/blackboard/appscan-source-parser</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/exe.png"></td><td>DAST | Executable that converts traffic files in .har format to .htd</td><td>https://github.com/rbtpugh/dast_auto/tree/master/HAR2HTD</td></tr>
 </table>
 
 <hr>
