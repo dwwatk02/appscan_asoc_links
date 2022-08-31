@@ -31,12 +31,12 @@
 <hr>
 <table>
     <tr><th>Integration</th><th>Description/Technologies</th><th>Link</th></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/ado1.png"></td><td>ASOC and ASE - DAST, SAST, SCA, Reporting</td>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/ado.png"></td><td>ASOC and ASE - DAST, SAST, SCA, Reporting</td>
         <td><a href="https://marketplace.visualstudio.com/items?itemName=HCLTechnologies.ApplicationSecurity-VSTS">https://marketplace.visualstudio.com/items?itemName=HCLTechnologies.ApplicationSecurity-VSTS</a></td></tr>
-        <tr><td><img src="http://watkinsdemo.us/images/jenkins1.png"></td><td>ASOC and ASE - DAST, SAST, SCA, Reporting</td><td><a href="https://github.com/jenkinsci/appscan-plugin">https://github.com/jenkinsci/appscan-plugin</a></td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/bamboo.png"></td><td>ASOC - DAST, SAST, SCA, Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin">https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin</a></td></tr>
-        <tr><td><img src="http://watkinsdemo.us/images/bitbucket1.png"></td><td>ASOC - SAST, SCA, Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</a></td></tr> 
-    <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/gocd.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin">https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin</a></td></tr>
+        <tr><td><img src="https://github.com/dwwatk02/images/blob/main/jenkins.png"></td><td>ASOC and ASE - DAST, SAST, SCA, Reporting</td><td><a href="https://github.com/jenkinsci/appscan-plugin">https://github.com/jenkinsci/appscan-plugin</a></td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/bamboo.png"></td><td>ASOC - DAST, SAST, SCA, Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin">https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin</a></td></tr>
+        <tr><td><img src="https://github.com/dwwatk02/images/blob/main/bitbucket.png"></td><td>ASOC - SAST, SCA, Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast</a></td></tr> 
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/gocd.png"></td><td>ASOC SAST + Reporting</td><td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin">https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin</a></td></tr>
 </table>
  
 <hr>
@@ -46,22 +46,22 @@
 <hr>
 <table>
     <tr><th>Language/Platform</th><th>Appscan Component(s) and Description</th><th>Link</th></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC SAST/Reporting | Wrapper script around SAClientUtil</td><td>https://github.com/cwtravis/python-saclient-wrapper</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>Appscan Issue Gateway | Wrapper script around Appscan Issue Gateway</td><td>https://github.com/cwtravis/AIMG_Client</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>Standard | Script to parse Appscan Standard xml report files and create spreadsheet with issues combined and sorted by severity</td><td>https://github.com/Bruk0ut/appscan-xml-report-parser</td></tr>
-        <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC SAST/DAST/Reporting | Helper script around various ASOC functionality</td><td>https://github.com/ntinvo/appscan-automator</td></tr>
-<tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC DAST| Script to take an inputted list of URLs and scan for Log4j</td><td>https://github.com/cwtravis/asoc_dast_spray</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASE SAST/DAST/Reporting | Wrapper script around various ASE functionality</td><td>https://github.com/sperlis/ase-apis</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC SAST | Script allowing you to run concurrent appscan prepare commands</td><td>https://github.com/m3ssap0/massive-appscan-prepare</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>Source and ASOC SAST | Script to scrape Support pages for SAST language support</td><td>https://github.com/gledonne/appscanlangs</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC SAST | Demonstrating Webhook functionality</td><td>https://github.com/cwtravis/asoc-wehbook-proxy</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/python1.png"></td><td>ASOC DAST | Starter framework for DAST automation</td><td>https://github.com/dwwatk02/automation</td></tr>
-    <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/bash.png"</td><td>ASOC, ASE | Script to export issues from ASoC and import into ASE</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
-    <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/bash.png">&nbsp;<img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/docker.png"></td><td>ASOC -> ASE | Container and scripts to input a swagger json definition and create ASOC DAST scan</td><td>https://github.com/jrocia/DAST-Automation-Swagger-API</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/bat.png"></td><td>ASOC SAST | Wrapper around SAClientUtil</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/powershell.png"></td><td>Standard | Script that takes inputted list of URLs and kicks off Appscan Standard scans, specifically for Log4j vuln</td><td>https://github.com/jrocia/Search-log4Jvuln-AppScanSTD</td></tr>
-    <tr><td><img src="http://watkinsdemo.us/images/scala1.png"></td><td>Source for Analysis | App that takes inputted .ozasmt file and import findings into mongodb</td><td>https://github.com/blackboard/appscan-source-parser</td></tr>
-    <tr><td><img src="https://github.com/dwwatk02/appscan_asoc_links/blob/main/exe.png"></td><td>DAST | Executable that converts traffic files in .har format to .htd</td><td>https://github.com/rbtpugh/dast_auto/tree/master/HAR2HTD</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>ASOC SAST/Reporting | Wrapper script around SAClientUtil</td><td>https://github.com/cwtravis/python-saclient-wrapper</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>Appscan Issue Gateway | Wrapper script around Appscan Issue Gateway</td><td>https://github.com/cwtravis/AIMG_Client</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>Standard | Script to parse Appscan Standard xml report files and create spreadsheet with issues combined and sorted by severity</td><td>https://github.com/Bruk0ut/appscan-xml-report-parser</td></tr>
+        <tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>ASOC SAST/DAST/Reporting | Helper script around various ASOC functionality</td><td>https://github.com/ntinvo/appscan-automator</td></tr>
+<tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>ASOC DAST| Script to take an inputted list of URLs and scan for Log4j</td><td>https://github.com/cwtravis/asoc_dast_spray</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>ASE SAST/DAST/Reporting | Wrapper script around various ASE functionality</td><td>https://github.com/sperlis/ase-apis</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>ASOC SAST | Script allowing you to run concurrent appscan prepare commands</td><td>https://github.com/m3ssap0/massive-appscan-prepare</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>Source and ASOC SAST | Script to scrape Support pages for SAST language support</td><td>https://github.com/gledonne/appscanlangs</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>ASOC SAST | Demonstrating Webhook functionality</td><td>https://github.com/cwtravis/asoc-wehbook-proxy</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td><td>ASOC DAST | Starter framework for DAST automation</td><td>https://github.com/dwwatk02/automation</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/bash.png"</td><td>ASOC, ASE | Script to export issues from ASoC and import into ASE</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/bash.png">&nbsp;<img src="https://github.com/dwwatk02/images/blob/main/docker.png"></td><td>ASOC -> ASE | Container and scripts to input a swagger json definition and create ASOC DAST scan</td><td>https://github.com/jrocia/DAST-Automation-Swagger-API</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/bat.png"></td><td>ASOC SAST | Wrapper around SAClientUtil</td><td>https://github.com/jrocia/ImportAppIssues-ASOC-ASE</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/powershell.png"></td><td>Standard | Script that takes inputted list of URLs and kicks off Appscan Standard scans, specifically for Log4j vuln</td><td>https://github.com/jrocia/Search-log4Jvuln-AppScanSTD</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/scala.png"></td><td>Source for Analysis | App that takes inputted .ozasmt file and import findings into mongodb</td><td>https://github.com/blackboard/appscan-source-parser</td></tr>
+    <tr><td><img src="https://github.com/dwwatk02/images/blob/main/exe.png"></td><td>DAST | Executable that converts traffic files in .har format to .htd</td><td>https://github.com/rbtpugh/dast_auto/tree/master/HAR2HTD</td></tr>
 </table>
 
 <hr>
