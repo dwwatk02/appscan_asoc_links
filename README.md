@@ -1,6 +1,5 @@
 ## Community-developed integrations, API & CLI wrapper scripts, and other helpful tools
 <hr>
-<p><img src="https://github.com/dwwatk02/images/blob/main/check.png"> Items are considered stable and have been tested by HCL Appscan Lab Services</p>
 <hr>
 <table>
    <tr>
