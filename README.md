@@ -21,7 +21,7 @@
       <td>Appscan Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> August 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> Aug 2022</td>
    </tr>
     <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
