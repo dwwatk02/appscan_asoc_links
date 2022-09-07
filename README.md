@@ -1,90 +1,90 @@
 ## Community-developed integrations, API & CLI wrapper scripts, and other helpful tools
 <hr>
-<hr>
+
 <table>
    <tr>
       <th>Integration</th>
       <th>Appscan Component(s)</th>
       <th>Functionality</th>
       <th>Github Repo</th>
-      <th>Tested</th>
+      <th>Last Tested</th>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-ASoC-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> June 2022</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>Appscan Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> August 2022</td>
    </tr>
     <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>Appscan Source</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>Appscan Standard</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> June 2022</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>Appscan Standard, Source, Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScan-onprem-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
    </tr>
       <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/docker.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> June 2022</td>
    </tr>
     <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/circleci.png"></td>
       <td>Appscan on Cloud</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/antonychiu2/CircleCI">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bamboo.png"></td>
       <td>Appscan on Cloud</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bitbucket.png"></td>
       <td>Appscan on Cloud</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/sca.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/sca.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gocd.png"></td>
       <td>Appscan on Cloud</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/sca.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/sca.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin">Link</a></td>
-      <td> <img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td> <img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/travis.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> </td>
       <td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/travis-appscan-automation">Link</a></td>
-      <td> <img src="https://github.com/dwwatk02/images/blob/main/check.png"></td>
+      <td> <img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/githubactions.png"></td>
@@ -117,7 +117,7 @@
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/jenkins.png"></td>
       <td>Appscan Source, Enterprise</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/kevinfealey/appscanenterprise-publisher">Link</a></td>
       <td> </td>
    </tr>
@@ -131,7 +131,7 @@
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/ado.png"></td>
      <td>Appscan on Cloud </td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/antonychiu2/AltoroJ">Link</a></td>
       <td> </td>
    </tr>
@@ -168,7 +168,7 @@
       <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td>
       <td>Appscan on Cloud</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td>Helper script around various ASOC functionality</td>
       <td><a href="https://github.com/ntinvo/appscan-automator">Link</a></td>
    </tr>
@@ -182,7 +182,7 @@
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td>
       <td>Appscan Enterprise</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td>Helper script around various ASE functionality</td>
       <td><a href="https://github.com/sperlis/ase-apis">Link</a></td>
    </tr>
@@ -203,21 +203,21 @@
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td>
       <td>Appscan on Cloud</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td>Helper script around Webhook functionality and use-cases</td>
       <td><a href="https://github.com/cwtravis/asoc-wehbook-proxy">Link</a></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td>
       <td>Appscan on Cloud</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td>Starter framework for DAST automation</td>
       <td><a href="https://github.com/dwwatk02/automation">Link</a></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bash.png"></td>
       <td>Appscan on Cloud, Appscan Enterprise</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/report.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td>Script to export issues from ASoC and import into ASE</td>
       <td><a href="https://github.com/jrocia/ImportAppIssues-ASOC-ASE">Link</a></td>
    </tr>
