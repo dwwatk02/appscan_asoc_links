@@ -56,35 +56,35 @@
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/antonychiu2/CircleCI">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
+      <td></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bamboo.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> June 2022</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bitbucket.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/sca.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
+      <td></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gocd.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/sca.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin">Link</a></td>
-      <td> <img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
+      <td></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/travis.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> </td>
       <td><a href="https://github.com/IBM/asoc-devops-tooling/tree/master/travis-appscan-automation">Link</a></td>
-      <td> <img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
+      <td> </td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/githubactions.png"></td>
