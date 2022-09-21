@@ -26,9 +26,9 @@
     <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>Appscan Source</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> Sept 2022</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
@@ -42,7 +42,7 @@
       <td>Appscan Standard, Source, Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScan-onprem-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> Sept 2022</td>
    </tr>
       <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/docker.png"></td>
