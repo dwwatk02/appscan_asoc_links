@@ -58,6 +58,13 @@
       <td><a href="https://github.com/antonychiu2/CircleCI">Link</a></td>
       <td></td>
    </tr>
+    <tr>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/octopus.png"></td>
+      <td>Appscan Enterprise</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"> </td>
+      <td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Octopus">Link</a></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> Sept 2022</td>
+   </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bamboo.png"></td>
       <td>Appscan on Cloud</td>
