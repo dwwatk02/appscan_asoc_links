@@ -1,6 +1,5 @@
 ## Community-developed integrations, API & CLI wrapper scripts, and other helpful tools
 <hr>
-
 <table>
    <tr>
       <th>Integration</th>
@@ -23,12 +22,12 @@
       <td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">Link</a></td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> Aug 2022</td>
    </tr>
-    <tr>
+   <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>Appscan Source</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> Sept 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png">Sept 2022</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
@@ -42,23 +41,23 @@
       <td>Appscan Standard, Source, Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScan-onprem-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> Sept 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png">Sept 2022</td>
    </tr>
-      <tr>
+   <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/docker.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">Link</a></td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/checky.png"> June 2022</td>
    </tr>
-    <tr>
+   <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/circleci.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/antonychiu2/CircleCI">Link</a></td>
       <td></td>
    </tr>
-    <tr>
+   <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/octopus.png"></td>
       <td>Appscan Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"> </td>
@@ -137,18 +136,14 @@
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/ado.png"></td>
-     <td>Appscan on Cloud </td>
+      <td>Appscan on Cloud </td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/antonychiu2/AltoroJ">Link</a></td>
       <td> </td>
    </tr>
 </table>
-
-
 <hr>
-
 ### ** Utility, helper, wrapper scripts **
-
 <hr>
 <table>
    <tr>
@@ -172,7 +167,7 @@
       <td>Script to parse xml report files and create spreadsheet with issues combined + sorted by severity</td>
       <td><a href="https://github.com/Bruk0ut/appscan-xml-report-parser">Link</a></td>
    </tr>
-      <tr>
+   <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
@@ -258,11 +253,8 @@
    </tr>
 </table>
 <table>
-
 <hr>
-
 ### ** Vulnerable code examples **
-
 <hr>
 <table>
    <tr>
