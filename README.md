@@ -238,6 +238,13 @@
       <td><a href="https://github.com/jrocia/Search-log4Jvuln-AppScanSTD">Link</a></td>
    </tr>
    <tr>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/bash.png"></td>
+      <td>Appscan on Cloud</td>
+      <td>General Utility</td>
+      <td>Delete all ASoC scans prior to a user-inputted date</td>
+      <td><a href="https://github.com/jrocia/Delete-scans-ASoC">Link</a></td>
+   </tr> 
+   <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bash.png"> <img src="https://github.com/dwwatk02/images/blob/main/docker.png"></td>
       <td>Appscan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
