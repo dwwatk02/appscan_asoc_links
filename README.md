@@ -224,18 +224,25 @@
       <td><a href="https://github.com/jrocia/ImportAppIssues-ASOC-ASE">Link</a></td>
    </tr>
    <tr>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/bash.png"> <img src="https://github.com/dwwatk02/images/blob/main/docker.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/powershell.png"></td>
       <td>Appscan on Cloud</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
-      <td>Container and scripts to input a swagger json definition and create ASOC DAST scan</td>
-      <td><a href="https://github.com/jrocia/DAST-Automation-Swagger-API">Link</a></td>
-   </tr>
+      <td>General Utility</td>
+      <td>Wizard-driven script to automate deletion of Applications and perform bulk userinvites</td>
+      <td><a href="https://github.com/Kevchia/ASoC-Batch">Link</a></td>
+   </tr>  
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/powershell.png"></td>
       <td>Appscan Standard</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td>Script that takes inputted list of URLs and kicks off Appscan Standard scans, specifically for Log4j vuln</td>
       <td><a href="https://github.com/jrocia/Search-log4Jvuln-AppScanSTD">Link</a></td>
+   </tr>
+   <tr>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/bash.png"> <img src="https://github.com/dwwatk02/images/blob/main/docker.png"></td>
+      <td>Appscan on Cloud</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
+      <td>Container and scripts to input a swagger json definition and create ASOC DAST scan</td>
+      <td><a href="https://github.com/jrocia/DAST-Automation-Swagger-API">Link</a></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/scala.png"></td>
