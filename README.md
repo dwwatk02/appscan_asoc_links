@@ -217,6 +217,13 @@
       <td><a href="https://github.com/dwwatk02/automation">Link</a></td>
    </tr>
    <tr>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/python.png"> <img src="https://github.com/dwwatk02/images/blob/main/powershell.png"></td>
+      <td>Appscan on Cloud, Appscan Enterprise</td>
+      <td>General Utility</td>
+      <td>Import scan issues from ASoC to ASE</td>
+      <td><a href="https://github.com/jrocia/Automation-Import-Scan-Issues-ASOC-ASE">Link</a></td>
+   </tr>   
+   <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bash.png"></td>
       <td>Appscan on Cloud, Appscan Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
