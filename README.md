@@ -45,7 +45,7 @@
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/docker.png"></td>
-      <td>Appscan on Cloud</td>
+      <td>Appscan on Cloud - Presence</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">Link</a></td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> June 2022</td>
