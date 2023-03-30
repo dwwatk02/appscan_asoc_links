@@ -162,7 +162,7 @@
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td>
-      <td>AppScan Standard</td>
+      <td>AppScan Source</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"></td>
       <td>Script to parse xml report files and create spreadsheet with issues combined + sorted by severity</td>
       <td><a href="https://github.com/Bruk0ut/appscan-xml-report-parser">Link</a></td>
@@ -176,7 +176,7 @@
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td>
-      <td>AppScan Standard</td>
+      <td>AppScan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"></td>
       <td>Script to take an inputted list of URLs and scan for Log4j</td>
       <td><a href="https://github.com/cwtravis/asoc_dast_spray">Link</a></td>
