@@ -177,7 +177,7 @@
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/python.png"></td>
       <td>AppScan on Cloud</td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td>Script to take an inputted list of URLs and scan for Log4j</td>
       <td><a href="https://github.com/cwtravis/asoc_dast_spray">Link</a></td>
    </tr>
