@@ -232,6 +232,13 @@
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/powershell.png"></td>
+      <td>AppScan Standard</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
+      <td>Scan multiple URLs in sequence from text file</td>
+      <td><a href="https://github.com/Kevchia/AppScanSTD_scan_by_sequence">Link</a></td>
+   </tr>
+   <tr>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/powershell.png"></td>
       <td>AppScan on Cloud</td>
       <td>General Utility</td>
       <td>Wizard-driven script to automate deletion of Applications and perform bulk userinvites</td>
@@ -305,5 +312,9 @@
    <tr>
       <td>A number of vulnerable .cpp applications</td>
       <td>https://github.com/atxsinn3r/VulnCases</td>
+   </tr>
+   <tr>
+      <td>Vulnerable node API app</td>
+      <td>https://github.com/erev0s/VAmPI</td>
    </tr>
 </table>
