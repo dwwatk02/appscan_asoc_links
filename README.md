@@ -13,70 +13,70 @@
       <td>AppScan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-ASoC-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"><span style="font-size:12px;"> June 2022</span></td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"><span style="font-size:12px;"> Jan 2025</span></td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>AppScan Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Aug 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Jan 2025</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>AppScan Source</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Sept 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Jan 2025</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>AppScan Standard</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> June 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Jan 2025</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gitlab.png"></td>
       <td>AppScan Standard, Source, Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/Integration-AppScan-onprem-and-Gitlab">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Sept 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Jan 2025</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/docker.png"></td>
       <td>AppScan on Cloud - Presence</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"></td>
       <td><a href="https://github.com/jrocia/AppScanPresence-Dockerfile">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> June 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> June 2024</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/circleci.png"></td>
       <td>AppScan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/antonychiu2/CircleCI">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Sept 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Sept 2024</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/octopus.png"></td>
       <td>AppScan Enterprise</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/dast.png"> </td>
       <td><a href="https://github.com/jrocia/Integration-ASE-DAST-and-Octopus">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Sept 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Sept 2024</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bamboo.png"></td>
       <td>AppScan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/dast.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> June 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> June 2024</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/bitbucket.png"></td>
       <td>AppScan on Cloud</td>
       <td><img src="https://github.com/dwwatk02/images/blob/main/sast.png"> <img src="https://github.com/dwwatk02/images/blob/main/sca.png"> <img src="https://github.com/dwwatk02/images/blob/main/rpt.png"></td>
       <td><a href="https://github.com/HCL-TECH-SOFTWARE/bitbucket-asoc-sast">Link</a></td>
-      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Sept 2022</td>
+      <td><img src="https://github.com/dwwatk02/images/blob/main/checky1.png"> Sept 2024</td>
    </tr>
    <tr>
       <td><img src="https://github.com/dwwatk02/images/blob/main/gocd.png"></td>
